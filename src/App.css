@@ -1,0 +1,30 @@
+.previous, .next, .quit{
+    margin: 12px;
+    line-height: 30px;
+    width: 80px;
+    border-radius: 5px;
+}
+.quit{
+    background-color: red;
+}
+.next{
+    background-color: green;
+}
+.previous{
+    background-color: cornflowerblue;
+}
+body{
+    background-color: #b395e1;
+    text-align: center;
+    margin: 5%;
+}
+.one{
+    background-color: #2773e6;
+    line-height: 30px;
+    border-radius: 20px;
+    margin-left: 40%;
+    width: 200px;
+}
+.container{
+    text-align: center;
+}
